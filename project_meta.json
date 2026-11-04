@@ -1,10 +1,17 @@
 {
-  "seq": 57,
   "title": "Client Workflow and Document Management System for Tax Practices",
-  "slug": "client-workflow-and-document-management-system-for-tax",
+  "old_slug": "client-workflow-and-document-management-system-for-tax",
+  "slug": "tax-practice-workflow-dms",
   "folder": "Client_Workflow_And_Document_Management_System_For",
-  "kind": "records",
-  "body_words": 240,
+  "kind": "product",
+  "body_words": 313,
+  "source": "MICT Academic",
   "project_id": "Academic Project 7",
-  "source": "MICT Academic"
+  "public": {
+    "public_ok": true,
+    "tier": "public-ok",
+    "reasons": [
+      "Showcase-ready design pack with labelled synthetic baseline"
+    ]
+  }
 }
