@@ -13,5 +13,8 @@
     "reasons": [
       "Showcase-ready design pack with labelled synthetic baseline"
     ]
-  }
+  },
+  "has_automation": true,
+  "entry": "python -m src.cli run",
+  "generatedUtc": "2026-11-09T13:07:13.742007+00:00"
 }
